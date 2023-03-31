@@ -134,6 +134,23 @@ img {
         width: 100%;
       
     }
+    .lessons {
+       width: 60%;
+       margin:0 auto;
+    }
+    .steps .row{
+        width: 60%;
+        margin: 0 auto;
+    }
+    .steps .col{
+       width: 20%;
+      margin: 0 auto;
+    }
+    
+    .why-us{
+       width: 60%;
+       margin: 0 auto;
+    }
 }
 /* versione tablet */
 @media all and (max-width:768px) {
